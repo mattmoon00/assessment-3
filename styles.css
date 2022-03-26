@@ -1,0 +1,45 @@
+body {
+  background: tan;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid brown;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: brown;
+}
+
+a:visited {
+	color: blueviolet;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.button {
+	width: 125px;
+	height: 50px;
+	border-radius: 8px;
+	background-color: yellow;
+}
